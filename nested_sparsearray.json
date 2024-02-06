@@ -1,0 +1,37 @@
+{
+  "Description": "Nested Json",
+  "EntriesCount": 5,
+  "Entries": {
+    "Description": "Entries holds nested objects. Transactions sparse array/dictionary",
+    "Trasaction01": {
+      "TransID": 1,
+      "Sales": 23423,
+      "Office": "Stockholm",
+      "Year": 2011
+    },
+    "Trasaction02": {
+      "TransID": 2,
+      "Sales": 423423,
+      "Office": "Paris",
+      "Year": 2012
+    },
+    "Trasaction03": {
+      "TransID": 3,
+      "Sales": 42345,
+      "Office": "London",
+      "Year": 2013
+    },
+    "Trasaction04": {
+      "TransID": 4,
+      "Sales": 23423,
+      "Office": "Venice",
+      "Year": 2014
+    },
+    "Trasaction05": {
+      "TransID": 5,
+      "Sales": 34567,
+      "Office": "Berlin",
+      "Year": 2015
+    }
+  }
+}
